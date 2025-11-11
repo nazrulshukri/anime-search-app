@@ -1,3 +1,41 @@
+# Anime Search App
+
+A React + TypeScript application that allows users to search for anime, view details, and interact with reactions like ❤️, 👍, 👎.  
+
+The app fetches data from the **Jikan API** (Unofficial MyAnimeList API) and displays detailed anime information.
+
+---
+
+## 🚀 Features
+
+- Search anime by title with **instant search** and debounce
+- View detailed anime information (title, Japanese title, synopsis, episodes, rating, score)
+- Animated reactions: ❤️, 👍, 👎 with +1 animation
+- Responsive design for desktop and mobile
+- Skeleton loaders and loading states
+- Error handling for failed API requests
+
+---
+
+## 🎨 UI / Design
+
+- Modern card-style layout with shadow and rounded corners
+- Gradient backgrounds for detail page
+- Hover animations on images and badges
+- Reaction animations for interactive feedback
+- Mobile-friendly and responsive
+
+---
+
+## 💻 Installation & Running Locally
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/nazrulshukri/anime-search-app.git
+cd anime-search-app
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
