@@ -31,10 +31,23 @@ The app fetches data from the **Jikan API** (Unofficial MyAnimeList API) and dis
 
 1. Clone the repository:
 
-```bash
+bash
 git clone https://github.com/nazrulshukri/anime-search-app.git
 cd anime-search-app
 
+Install dependencies:
+
+npm install
+
+
+Start the development server on port 4000:
+
+npm run dev
+
+
+Open your browser and go to:
+
+http://localhost:4000
 
 # React + TypeScript + Vite
 
