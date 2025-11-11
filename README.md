@@ -35,12 +35,12 @@ bash
 git clone https://github.com/nazrulshukri/anime-search-app.git
 cd anime-search-app
 
-Install dependencies:
+2. Install dependencies:
 
 npm install
 
 
-Start the development server on port 4000:
+3. Start the development server on port 4000:
 
 npm run dev
 
